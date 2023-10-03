@@ -1,5 +1,5 @@
 # Word-Count
-# Description
+### Description:
 This HTML file is a simple web page that displays the first three most frequently occurring words in a given paragraph. The JavaScript code processes the paragraph, counts word occurrences, and then displays the top three words and their counts in the provided `div` element with the id "app".
 
 ### How to Run the Code:
